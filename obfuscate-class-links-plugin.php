@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Obfuscate Class Links
- * Plugin URL: https://github.com/syllod/obfuscate-class-links
+ * Plugin URL: https://github.com/syllod/Obfuscate-Class-Links_wp-plugin
  * Description: This plugin obfuscates links within elements with the class "ob-link" using Base64 encoding.
  * Version: 1.0.0
  * Author: Sylvain L - Syllod
