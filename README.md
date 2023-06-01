@@ -1,8 +1,5 @@
 # Obfuscate Class Links Plugin
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
-[![License](https://img.shields.io/badge/License-GPL%20v2%20or%20later-green.svg)]()
-
 ## Description
 
 Obfuscate Class Links is a WordPress plugin that obfuscates links within elements with the class "ob-link" using Base64 encoding. By obfuscating the links, this plugin helps protect them from being easily accessible or visible to users, while preserving the SEO value and link juice of your website.
