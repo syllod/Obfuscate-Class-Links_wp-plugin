@@ -5,6 +5,7 @@
  * Description: This plugin obfuscates links within elements with the class "ob-link" using Base64 encoding.
  * Version: 1.0.0
  * Author: Sylvain L - Syllod
+ * Author URI: https://github.com/syllod
 */
 
 function obfuscate_class_links() {
