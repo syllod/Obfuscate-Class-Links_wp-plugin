@@ -27,7 +27,7 @@ Obfuscate Class Links is a WordPress plugin that obfuscates links within element
 
 ## License
 
-This plugin is licensed under the [GNU General Public License (GPL) v2 or later](https://www.gnu.org/licenses/gpl-2.0.html), which ensures the freedom to use, modify, and distribute the code and any modifications made to it. By using this plugin, you agree to comply with the terms and conditions of the GPL.
+This plugin is released under the [GPL-2.0+ License](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ## Plugin URL
 
