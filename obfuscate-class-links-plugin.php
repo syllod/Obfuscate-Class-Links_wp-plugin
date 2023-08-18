@@ -3,12 +3,12 @@
  * Plugin Name: Obfuscate Class Links
  * Plugin URL: https://github.com/syllod/Obfuscate-Class-Links_wp-plugin
  * Description: This plugin obfuscates links within elements with the class "ob-link" using Base64 encoding.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Sylvain L - Syllod
  * Author URI: https://github.com/syllod
 */
 
-function obfuscate_class_links() {
+function upmywp_obfuscate_class_links() {
     ?>
     <script type="text/javascript">
     jQuery(document).ready(function($) {
@@ -29,4 +29,4 @@ function obfuscate_class_links() {
     </script>
     <?php
 }
-add_action('wp_footer', 'obfuscate_class_links');
+add_action('wp_footer', 'upmywp_obfuscate_class_links');
